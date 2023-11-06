@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "criminal-case-manager",
+  "private_key_id": "52f9239036a5939fd614eebc315c5d073e5bc9d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxhB9x3uJjVfYU\nRSUMDbhsCSQRXMqAA2HDsOK/gf6yok2OVSYujd7voS6rutcbTtHn58E5Imetz/Mp\nTUf7pWsiGAh+f8zNLS5tTM+N1S5rJfQ1kGKoma8JVmzkHTtTX6zVirGbVIe53CRq\nW7s+cbTs3qF3UILBgfYCAYvGObHQrtGNKdzmNx4XpsTTJhduGH4Z82huZR1R9hMj\nFeORsg4iOt+uM5smFBCJmuLT4WqMq11jlwMaml+YaFhIS6gO0EdPvEHe9Y5nrUc3\n7JZ6Llp3zXX/eKD2GhYUDaH1Ln/fuzWqUXSNn3FgiinFBrW4LW25+t537NP0kFHT\nUgCXOEElAgMBAAECggEADN4k/cBqD/BXytcvRN/jRFBNXWZz/JORjSdawWjX7OUU\nXEHBpcfVya8tCSXMia4upVw18YkZfIuAkWIGdIwo89lTdIfzHbhrSZQG1+/0h+1v\nAD6X3xNHHeh+pz2+eC/4Ca2YzmWX0Kl/wDHwfUB6KwemkzCVMuGtfYhfDdnrlSps\nzShAyE0bBtVLo4uAnTI/RTmvwmx0PX7Q/XozFpxH9nZZVqnHf5kynM9JBC0LI5e7\n52jyAtz/Bv5LREH5vqOx7A1WB5+GAG+rX1uC9khxiPrJOrz687Pq06Vp+0zFmkya\na52ZDHeeN+M+4qMBiD7NpSmtgA82rLtPiO8FUhcXAQKBgQD5rHd/z41jtR6lttfd\niQO9sNz6NhZvylYZxzGcaiioU3D8lM3Ln7f0CNB0ihpvo2KW22lcyzbYgfPh5XwY\nu7lYdvC7w8LJl50ixxVFbAFhSvdaNoVnxnqCJfydyTarIC5uoyWV9Ow6VZpDT291\n79pB5r2J7mFaWiYO/vvlkeNxAQKBgQD3or2yAJ8cIzM0qKPGHWXN9SRclFbp8hM6\nNBXxytH+P/cVHjD03qwoFh+6X9dFD2GOdAcOAsX69sJN/DlyIvGlwFf46+yUBi0B\njxLvfL4ddCYitiXHZ67J52nrpnpzNwCxFzCDVP/HlYsEJHmZUbZSAbwUwOtMvO3z\n/0bkaSzsJQKBgQC9nFAIfaxn+4Xx3eEkOkjgB3BaiTcS4PvwiclQe4KzCuN0vuFn\ncb23E/aTespG3DMkVC85LI9Tb6WyeaB7/BzvZSy/vBSzGnRYlA7AcRy/MbqWBW/c\n9uvU6Vpmzge5gDAjD72cm6vHRXlpAuuoCmabw8tP8/x1LJ9YpibRGrE7AQKBgQCj\nMy6fPAegLJaXkrh0XXV1eaSgGub4wR/o0ODRfCBO1msJEN+k0YdV19bLJlSh39Qk\nZNUtZ6iAj9VYPezCCsOEwDF6DEna+AL7LwaErIpCsQRdBfv54Zvw1kEZG5tBiTM8\ngpLnSsJTD3wRm9RDtfVZMGl6p/WqmiycDFX1PFdtvQKBgDMAdhLey7qxdXWvZgqp\nxAjWU4s878WU/Lxf4SCor1jKYU0G/BWtWvjz3c7MUePr8sxeQs9buEKv1mD2Xa8v\nvtrPzvW4+Q2Vpz65qG1+XcxK/IrlCI8fUc5sSZH+o/SmywBYgTIGnR/yV8zPu2ok\nnnI9rUmh1ljbc36G/oT4hT1P\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wfu85@criminal-case-manager.iam.gserviceaccount.com",
+  "client_id": "114306607948880155163",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wfu85%40criminal-case-manager.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
