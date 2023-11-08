@@ -31,7 +31,8 @@ router.get('/login', async(req,res)=>{
                     res.send({message:"Invalid Password"});
                 } else{
                     const payload = {
-                        id: userData.id
+                        id: userData.id,
+                        department: userData.department
                     }
                     jwt.sign(payload, secret, {expiresIn: "100m"}, 
                         (err, token) => {

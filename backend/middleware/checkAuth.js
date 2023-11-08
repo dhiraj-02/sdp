@@ -5,6 +5,7 @@ module.exports = (req, res, next) => {
         let token = req.headers['authorization'].split(' ')[1];
         const decoded = jwt.verify(token, secret);
         req.userData = decoded;
+        //console.log(req.userData);
         next();
     } catch (er) {
         return res.status(401).json({ "message": "Not authorized" });
